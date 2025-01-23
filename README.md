@@ -4,4 +4,5 @@
 
 Para ejecutar el sistemas debes poner:
 
-'''nmp install react'''
+
+```nmp install react```
